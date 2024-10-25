@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/숫자문자열과영단어" isTestSource="false" packagePrefix="min.dev.edu.algorithm" />
+      <sourceFolder url="file://$MODULE_DIR$/신고결과받기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/폰켓몬" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
